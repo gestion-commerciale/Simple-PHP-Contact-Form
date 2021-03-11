@@ -5,8 +5,8 @@ return [
         'prefix' => '[Contact Form]'
     ],
     'emails' => [
-        'to'   => '',
-        'from' => ''
+        'to'   => 'mr.goumri@gmail.com',
+        'from' => 'mar.one.fitness@gmail.com'
     ],
     'messages' => [
         'error'   => 'There was an error sending your message, please try again later.',
